@@ -1,0 +1,25 @@
+.social-icons .social-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 6rem;
+    width: 6rem;
+    background-color: #495057;
+    color: #fff;
+    border-radius: 100%;
+    font-size: 3rem;
+    margin-right: 3rem;
+}
+.social-icons .social-icon:last-child {
+    margin-right: 0;
+}
+.social-icons .social-icon:hover {
+    background-color: #bd5d38;
+}
+.btn {
+    background-color: bd5d38;
+    margin-top: 25px;
+}
+#emailaddress, #body {
+    margin-top: 25px;
+}
